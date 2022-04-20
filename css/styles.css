@@ -1,0 +1,12 @@
+body {
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.06em;
+  background-color: var(--white-color);
+  color: var(--text-color);
+}
+:root {
+  --active-color: #2196f3;
+  --title-color: #212121;
+  --white-color: #ffffff;
+  --text-color: #757575;
+}
