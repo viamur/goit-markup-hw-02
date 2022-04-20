@@ -163,7 +163,7 @@ body {
   font-family: inherit;
 }
 .btn:hover,
-.bth:focus {
+.btn:focus {
   background-color: var(--active-color);
   color: var(--white-color);
 }
